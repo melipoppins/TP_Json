@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d44f92b3-adc6-4cff-a1f4-273cfc90dbd8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jVaG4ldDlX9uZ93QjUqJNB00Se" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\_AFPA\08_IntelliJ\TP_CRUDStudent\untitled\js" />
+      <recent name="E:\_AFPA\08_IntelliJ\TP_CRUDStudent\untitled" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d44f92b3-adc6-4cff-a1f4-273cfc90dbd8" name="Default Changelist" comment="" />
+      <created>1603891613337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603891613337</updated>
+      <workItem from="1603891614388" duration="3472000" />
+      <workItem from="1603895164909" duration="6851000" />
+    </task>
+    <task id="LOCAL-00001" summary="intital commit">
+      <created>1603901898136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603901898136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intital commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="intital commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="638" y="343" key="#Notifications" timestamp="1603901473262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="343" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1603901473262" />
+    <state x="517" y="13" key="CommitChangelistDialog2" timestamp="1603901729726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="517" y="13" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603901729726" />
+    <state x="672" y="278" key="FileChooserDialogImpl" timestamp="1603901597909">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603901597909" />
+    <state x="768" y="425" width="341" height="196" key="Github.ShareDialog" timestamp="1603901461285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="768" y="425" width="341" height="196" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603901461285" />
+    <state x="693" y="424" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603901820695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="424" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603901820695" />
+  </component>
+</project>
